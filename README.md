@@ -1,4 +1,4 @@
-# NASA on Mars (News And Weather data)
+# NASA on Mars (News Articles And Weather data)
 
 What have Created,
 This data analysis work consists of two technical products. 
