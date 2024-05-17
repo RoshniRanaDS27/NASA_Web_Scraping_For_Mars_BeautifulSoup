@@ -60,7 +60,7 @@ The columns have the same headings as the table on the website.
 
 Here’s an explanation of the column headings:
 #
->id: 'the identification number of a single transmission from the Curiosity rover'    
+>id:> 'the identification number of a single transmission from the Curiosity rover'    
 >terrestrial_date: 'the date on Earth'    
 >sol: 'the number of elapsed sols (Martian days) since Curiosity landed on Mars'    
 >ls: 'the solar longitude'    
