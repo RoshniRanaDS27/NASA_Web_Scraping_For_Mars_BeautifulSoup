@@ -78,12 +78,15 @@ b.How many Martian (and not Earth) days worth of data exist in the scraped datas
 c.The coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:  
 d.The average minimum daily temperature for all of the months.  
 e.Ploted the results as a bar chart.  
-f.Which months have the lowest and the highest atmospheric pressure on Mars?   
+
+f.Which months have the lowest and the highest atmospheric pressure on Mars?  
 To answer this question:  
     1.Found the average daily atmospheric pressure of all the months.    
     2.Ploted the results as a bar chart.  
+    
 g.How many terrestrial (Earth) days exist in a Martian year?  
 To answer this question:  
     1.Considered how many days elapse on Earth in the time that Mars circles the Sun once.  
     2.Visually estimated the result by plotting the daily minimum temperature.  
-h.Exported the DataFrame to a CSV file. "
+    
+h.Exported the DataFrame to a CSV file. "mars_weather_data_Roshni.csv"
