@@ -19,9 +19,9 @@ collecting data, organizing and storing data, analyzing data, and then visually 
 # Instructions
 # Part 1: Scrape Titles and Preview Text from Mars News
 #Jupyter Notebook file "part_1_mars_news.ipynb"  
-have work on this code as followed the steps below to scrape the #Mars News website. 
- *
- 
+have work on this code as followed the steps below to scrape the #Mars News website.  
+#
+
 1.Used automated browsing to visit the "https://static.bc-edx.com/data/web/mars_news/index.html"  
   Inspected the page to identify which elements to scrape by using chrome DevTools. 
   
