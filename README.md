@@ -40,9 +40,13 @@ have work on this code as followed the steps below to scrape the #Mars News webs
 
 6.Printed the list in notebook.   
 7.stored the scraped data in a file (to ease sharing the data with others).  
-8.exported the scraped data to a JSON file.  
+8.exported the scraped data to a JSON file. ("mars_news_data_Roshni.json")
 
 # Part 2: Scrape and Analyze Mars Weather Data
 #Jupyter Notebook file "part_2_mars_weather_Roshni.ipynb"  
-
+worked in this code as to follow the steps below to scrape and analyze Mars weather data.
 #
+1.Used automated browsing to visit the Mars Temperature Data SiteLinks to an external site.    
+Inspected the page to identify which elements to scrape. 
+Note that the URL is "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
+
