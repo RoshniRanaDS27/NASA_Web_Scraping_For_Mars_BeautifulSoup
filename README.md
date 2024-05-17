@@ -18,7 +18,7 @@ collecting data, organizing and storing data, analyzing data, and then visually 
 
 # Instructions
 # Part 1: Scrape Titles and Preview Text from Mars News
-#Jupyter Notebook file "part_1_mars_news.ipynb"  
+#Jupyter Notebook file "part_1_mars_news_Roshni.ipynb"  
 have work on this code as followed the steps below to scrape the #Mars News website.  
 #
 
@@ -40,4 +40,9 @@ have work on this code as followed the steps below to scrape the #Mars News webs
 
 6.Printed the list in notebook.   
 7.stored the scraped data in a file (to ease sharing the data with others).  
-8.exported the scraped data to a JSON file.   
+8.exported the scraped data to a JSON file.  
+
+# Part 2: Scrape and Analyze Mars Weather Data
+#Jupyter Notebook file "part_2_mars_weather_Roshni.ipynb"  
+
+#
