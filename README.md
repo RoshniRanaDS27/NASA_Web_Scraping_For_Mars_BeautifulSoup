@@ -51,3 +51,24 @@ worked in this code as to follow the steps below to scrape and analyze Mars weat
 Inspected the page to identify which elements to scrape.     
 Note that the URL is "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
 
+2.Created a Beautiful Soup object and used it to scrape the data in the HTML table.    
+this can also be achieved by using the Pandas "read_html" function.   
+However, used Beautiful Soup here to continue sharpening web scraping skills.
+
+3.Assembled the scraped data into a Pandas DataFrame.  
+The columns have the same headings as the table on the website.  
+
+Here’s an explanation of the column headings:
+#
+>id: the identification number of a single transmission from the Curiosity rover  
+>terrestrial_date: the date on Earth   
+>sol: the number of elapsed sols (Martian days) since Curiosity landed on Mars  
+>ls: the solar longitude  
+>month: the Martian month  
+>min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)  
+>pressure: The atmospheric pressure at Curiosity's location  
+
+Examined the data types that were currently associated with each column.   
+Necessarily, casted (or converted) the data to the appropriate datetime, int, or float data types.  
+
+
