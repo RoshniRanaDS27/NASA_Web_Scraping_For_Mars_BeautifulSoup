@@ -67,7 +67,7 @@ Here’s an explanation of the column headings:
 >month: the Martian month  
 >min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)  
 >pressure: The atmospheric pressure at Curiosity's location  
-
+#
 Examined the data types that were currently associated with each column.   
 Necessarily, casted (or converted) the data to the appropriate datetime, int, or float data types.  
 
