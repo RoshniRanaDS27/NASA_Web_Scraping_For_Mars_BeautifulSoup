@@ -60,13 +60,13 @@ The columns have the same headings as the table on the website.
 
 Here’s an explanation of the column headings:
 #
->id:   the identification number of a single transmission from the Curiosity rover  
->terrestrial_date:   the date on Earth   
->sol: the number of elapsed sols (Martian days) since Curiosity landed on Mars  
->ls: the solar longitude  
->month: the Martian month  
->min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)  
->pressure: The atmospheric pressure at Curiosity's location  
+>id: 'the identification number of a single transmission from the Curiosity rover' 
+>terrestrial_date: 'the date on Earth'
+>sol: 'the number of elapsed sols (Martian days) since Curiosity landed on Mars'
+>ls: 'the solar longitude'
+>month: 'the Martian month'  
+>min_temp: 'the minimum temperature, in Celsius, of a single Martian day (sol)'
+>pressure: 'The atmospheric pressure at Curiosity's location' 
 #
 Examined the data types that were currently associated with each column.   
 Necessarily, casted (or converted) the data to the appropriate datetime, int, or float data types.  
