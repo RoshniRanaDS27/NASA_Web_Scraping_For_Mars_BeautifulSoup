@@ -35,8 +35,8 @@ have work on this code as followed the steps below to scrape the #Mars News webs
 " {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm",
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}"
 
-5.Stored all the dictionaries in a Python list.
+5.Stored all the dictionaries in a Python list. 
 
-6.Printed the list in notebook.
-7.stored the scraped data in a file (to ease sharing the data with others).
-8.exported the scraped data to a JSON file. 
+6.Printed the list in notebook. 
+7.stored the scraped data in a file (to ease sharing the data with others). 
+8.exported the scraped data to a JSON file.  
