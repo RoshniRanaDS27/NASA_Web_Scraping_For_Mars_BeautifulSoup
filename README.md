@@ -22,8 +22,9 @@ collecting data, organizing and storing data, analyzing data, and then visually 
 have work on this code as followed the steps below to scrape the #Mars News website.  
 #
 
-1.Used automated browsing to visit the "https://static.bc-edx.com/data/web/mars_news/index.html"  
-  Inspected the page to identify which elements to scrape by using chrome DevTools. 
+1.Used automated browsing to visit to an external data site link.     
+Note that the URL is "https://static.bc-edx.com/data/web/mars_news/index.html"      
+Inspected the page to identify which elements to scrape by using chrome DevTools. 
   
 2.Created a Beautiful Soup object and used it to extract text elements from the website. 
 
@@ -47,6 +48,6 @@ have work on this code as followed the steps below to scrape the #Mars News webs
 worked in this code as to follow the steps below to scrape and analyze Mars weather data.
 #
 1.Used automated browsing to visit the Mars Temperature Data SiteLinks to an external site.    
-Inspected the page to identify which elements to scrape. 
+Inspected the page to identify which elements to scrape.     
 Note that the URL is "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
 
