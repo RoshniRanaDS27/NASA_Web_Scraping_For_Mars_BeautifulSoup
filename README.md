@@ -1,7 +1,6 @@
 # NASA on Mars (News Articles And Weather data)
 # Web-Scraping and Data Analysis
 
-What have Created,
 This data analysis work consists of two technical products. 
 
 Deliverable 1: Scrape titles and preview text from Mars news articles.
