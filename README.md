@@ -1,6 +1,11 @@
 # NASA on Mars 
-(News Articles And Weather data)
-
+(News Articles And Weather data)  
+#
+![A fun GIF demonstrating an aspect of my project](https://media.giphy.com/media/113mtXIRqf3jfW/giphy.gif)  
+#
+# Planet : Mars 
+![A fun GIF illustrating my project](https://media2.giphy.com/media/uU8ZXJAjwCy8mGSWsw/giphy.gif)  
+#
 # Web-Scraping and Data Analysis
 
 This data analysis work consists of two technical products. 
